@@ -1,0 +1,15 @@
+.idea/
+__pycache__/
+prediction/data/posts.csv
+prediction/data/posts_image_features.csv
+prediction/data/posts_preprocessed.csv
+prediction/data/posts_features.csv
+prediction/data/auth-settings.json
+prediction/data/vocab.csv
+xgboost/
+.hypothesis/
+.pytest_cache/
+.bin/
+.logs/
+venv/
+create/
